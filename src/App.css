@@ -1,0 +1,50 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+.intro {
+    /* background: url(); */
+    background: linear-gradient(black, grey);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    /* verical height */
+    background: linear-gradient(grey, lightblue);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.services{
+    background: lightblue;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.Recent{
+    background: lightblue;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.photoprofile {
+    width: 100px;
+}
+
+.sosmed {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: 0.5s;
+}
+.bukugambar:hover{
+    transform: scale(1.1);
+}

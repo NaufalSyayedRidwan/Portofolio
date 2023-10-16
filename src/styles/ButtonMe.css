@@ -1,0 +1,9 @@
+.btn-saya{
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: 0.5s;
+}
+.btn-saya:hover{
+    transform: scale(1.2);
+
+}
